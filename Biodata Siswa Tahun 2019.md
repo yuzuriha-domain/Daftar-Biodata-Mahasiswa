@@ -30,5 +30,5 @@
    NIM    : H2020000005  
    JK     : Laki - Laki  
    Agama  : Islam  
-   TTL    : Lampung, 08 November 2003
+   TTL    : Lampung, 08 November 2003  
    Alamat : Jln. Loa Bakung RT.21 No.04  
