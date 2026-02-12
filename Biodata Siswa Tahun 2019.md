@@ -6,16 +6,16 @@
    JK     : Laki - Laki  
    Agama  : Islam  
    TTL    : Ambon, 19 Agustus 2003  
-   Alamat : Jln. Loa Bakung RT.21 No.04  
-  
+   Alamat : Jln. Loa Bakung RT.21 No.04
+   
 **Siswa 2**  
-2. Nama   : Erna Mulyani  
+3. Nama   : Erna Mulyani  
    NIM    : H2020000006  
    JK     : Perempuan  
    Agama  : Islam  
    TTL    : Samarinda, 02 Juni 2003  
    Alamat : Jln. Bantuas RT.01 No.18  
-  
+   
 **Siswa 3**  
 3. Nama   : Indah Istiqomah  
    NIM    : H2020000003  
@@ -23,7 +23,7 @@
    Agama  : Islam  
    TTL    : Samarinda, 22 Desember 2002  
    Alamat : Jln. Keledang RT.13 No.26
-  
+   
 **Siswa 4**  
 5. Nama   : Ilham ILyas  
    NIM    : H2020000004  
@@ -31,7 +31,7 @@
    Agama  : Islam  
    TTL    : Pinrang, 10 Maret 2003  
    Alamat : Jln. Mangkupalas RT.07 No.12  
-  
+   
 **Siswa 5**  
 6. Nama   : Rifqi Permana  
    NIM    : H2020000005  
