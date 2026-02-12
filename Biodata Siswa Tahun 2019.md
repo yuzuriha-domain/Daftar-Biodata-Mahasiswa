@@ -7,6 +7,7 @@
    Agama  : Islam  
    TTL    : Ambon, 19 Agustus 2003  
    Alamat : Jln. Loa Bakung RT.21 No.04  
+  
 **Siswa 2**  
 2. Nama   : Erna Mulyani  
    NIM    : H2020000006  
